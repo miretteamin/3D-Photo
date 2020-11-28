@@ -1,0 +1,9 @@
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\bin\Debug\3D_Program.exe.config
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\bin\Debug\3D_Program.exe
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\bin\Debug\3D_Program.pdb
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\obj\Debug\3D_Program.csprojResolveAssemblyReference.cache
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\obj\Debug\_3D_Program.Form1.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\obj\Debug\_3D_Program.Properties.Resources.resources
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\obj\Debug\3D_Program.csproj.GenerateResource.Cache
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\obj\Debug\3D_Program.exe
+C:\Users\Mirette\Documents\Applications\C#\My Projects\3D_Program\3D_Program\obj\Debug\3D_Program.pdb
